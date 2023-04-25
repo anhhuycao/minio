@@ -1,0 +1,3 @@
+# Minio
+
+- Start `make up`
